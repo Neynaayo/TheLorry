@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lorry
+comment1.params=
+comment1.target=Lorry()
+comment2.params=pua\ doa\ size\ distance\ quantity
+comment2.target=Lorry(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=size\ quantity
+comment3.target=void\ setSizeCap(java.lang.String,\ int)
+comment4.params=distance
+comment4.target=void\ setDistance(int)
+comment5.params=
+comment5.target=java.lang.String\ getSize()
+comment6.params=
+comment6.target=int\ getQuantity()
+comment7.params=
+comment7.target=int\ getDistance()
+comment8.params=
+comment8.target=double\ calculateCharge()
+numComments=9

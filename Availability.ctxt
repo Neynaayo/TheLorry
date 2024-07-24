@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Availability
+comment1.params=
+comment1.target=Availability()
+comment2.params=date
+comment2.target=boolean\ isDateAvailable(Time_Date)
+comment3.params=date
+comment3.target=void\ bookDate(Time_Date)
+comment4.params=scanner
+comment4.target=Time_Date\ getUniqueDate(java.util.Scanner)
+numComments=5

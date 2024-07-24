@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Van
+comment1.params=
+comment1.target=Van()
+comment2.params=vt\ pua\ maxWeight\ distance\ quantity
+comment2.target=Van(java.lang.String,\ java.lang.String,\ double,\ int,\ int)
+comment3.params=maxWeight\ distance\ quantity
+comment3.target=void\ setAll(double,\ int,\ int)
+comment4.params=
+comment4.target=double\ getMaxWeight()
+comment5.params=
+comment5.target=int\ getDistance()
+comment6.params=
+comment6.target=int\ getQuantity()
+comment7.params=
+comment7.target=double\ calculateCharge()
+numComments=8

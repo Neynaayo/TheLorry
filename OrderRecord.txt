@@ -1,0 +1,12 @@
+
+=============Receipt Order <3==============
+Name: Fatimah
+Phone Number: 0112223344
+Email: fatimah@gmail.com
+Date: 10/10/2023
+Time: 10:0
+Pick up Address : Putra perdana
+Drop Off Address : Puchong
+Total Amount to be paid :RM 85.0
+================================================================================
+**Receipt saved**

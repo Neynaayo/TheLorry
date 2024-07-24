@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Receipt
+comment1.params=customer\ vehicle\ timeDate
+comment1.target=Receipt(Customers,\ Vehicle,\ Time_Date)
+comment2.params=
+comment2.target=void\ displayReceipt()
+numComments=3
